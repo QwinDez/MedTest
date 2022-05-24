@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.166,=D:\Проекты\Unit1.pas</Transaction>
+    <Transaction>2022.05.24 19:47:27.068,=D:\Проекты\Unit1.pas</Transaction>
+    <Transaction>2022.05.24 22:39:11.655,C:\Users\Денис\Desktop\MedTest\frmMain.dfm=D:\Проекты\Unit1.dfm</Transaction>
+    <Transaction>2022.05.24 22:39:11.655,C:\Users\Денис\Desktop\MedTest\frmMain.pas=D:\Проекты\Unit1.pas</Transaction>
+    <Transaction>2022.05.24 22:39:24.708,C:\Users\Денис\Desktop\MedTest\MedTest.dproj=D:\Проекты\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
